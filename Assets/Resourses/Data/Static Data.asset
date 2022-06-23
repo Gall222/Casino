@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: be2b596e4369a2b4aad8d2f58a89e73a, type: 3}
+  m_Name: Static Data
+  m_EditorClassIdentifier: 
+  itemsList:
+  - {fileID: 21300000, guid: 35e5f67566a30cc4fa1579b9a4788f33, type: 3}
+  - {fileID: 21300000, guid: 98b6f6b5754233941859d0c19fa2f1b6, type: 3}
+  - {fileID: 21300000, guid: 41235cc5e71f5de4ba76d85010ea44d7, type: 3}
+  - {fileID: 21300000, guid: fddba634eb38b8542a5dfec25252190f, type: 3}
+  - {fileID: 21300000, guid: a288d6ad755a2cf47b8e481cb5dba8e4, type: 3}
+  - {fileID: 21300000, guid: f927c9a327dbfad448bd3f97085d8fad, type: 3}
+  - {fileID: 21300000, guid: 947727a1ebfd9b8439f45594ef638d9f, type: 3}
+  - {fileID: 21300000, guid: 6a8c58ec7546e9c42b669a1b3b1400b0, type: 3}
+  holdersMoveSpeed: 0
+  holdersFaidingSpeed: 300
+  holdersMinSpeed: 500
+  itemsCountInHolder: 5
+  itemPrefab: {fileID: 1532609222167883936, guid: 9b31a98a89d934b4ca2e82d1726a019c, type: 3}
